@@ -1,0 +1,28 @@
+,ballsFaced,conceded,dismissal,economyRate,fours,fowType,headline,href,maidens,nbw,overs,partnershipOvers,partnershipRuns,partnershipWicketNAme,partnershipWicketName,player1Name,player1Runs,player2Name,player2Runs,playerID,playerName,runs,sixes,typeID,wickets
+0,3,,caught,,0,,Batting,http://www.espncricinfo.com/twenty20wc/content/player/41434.html,,,,,,,,,,,,41434,Mohammad Hafeez,1,0,,
+1,14,,run out,,4,,Batting,http://www.espncricinfo.com/twenty20wc/content/player/40563.html,,,,,,,,,,,,40563,Imran Nazir,33,2,,
+2,3,,bowled,,0,,Batting,http://www.espncricinfo.com/twenty20wc/content/player/41028.html,,,,,,,,,,,,41028,Kamran Akmal,0,0,,
+3,24,,caught,,4,,Batting,http://www.espncricinfo.com/twenty20wc/content/player/43652.html,,,,,,,,,,,,43652,Younis Khan,24,0,,
+4,17,,caught,,0,,Batting,http://www.espncricinfo.com/twenty20wc/content/player/42657.html,,,,,,,,,,,,42657,Shoaib Malik,8,0,,
+5,38,,caught,,0,,Batting,http://www.espncricinfo.com/twenty20wc/content/player/41378.html,,,,,,,,,,,,41378,Misbah-ul-Haq,43,4,,
+6,1,,caught,,0,,Batting,http://www.espncricinfo.com/twenty20wc/content/player/42639.html,,,,,,,,,,,,42639,Shahid Afridi,0,0,,
+7,11,,bowled,,2,,Batting,http://www.espncricinfo.com/twenty20wc/content/player/43654.html,,,,,,,,,,,,43654,Yasir Arafat,15,0,,
+8,4,,bowled,,0,,Batting,http://www.espncricinfo.com/twenty20wc/content/player/43265.html,,,,,,,,,,,,43265,Sohail Tanvir,12,2,,
+9,2,,bowled,,0,,Batting,http://www.espncricinfo.com/twenty20wc/content/player/43524.html,,,,,,,,,,,,43524,Umar Gul,0,0,,
+10,1,,not out,,1,,Batting,http://www.espncricinfo.com/twenty20wc/content/player/41411.html,,,,,,,,,,,,41411,Mohammad Asif,4,0,,
+11,,26,,6.50,,,,http://www.espncricinfo.com/twenty20wc/content/player/35280.html,0,(1nb),4.0,,,,,,,,,35280,RP Singh,,,12,3
+12,,44,,11.00,,,,http://www.espncricinfo.com/twenty20wc/content/player/34274.html,1,(2w),4.0,,,,,,,,,34274,S Sreesanth,,,12,1
+13,,20,,5.71,,,,http://www.espncricinfo.com/twenty20wc/content/player/29976.html,0,(2w),3.3,,,,,,,,,29976,Joginder Sharma,,,12,2
+14,,5,,5.00,,,,http://www.espncricinfo.com/twenty20wc/content/player/32498.html,0,,1.0,,,,,,,,,32498,YK Pathan,,,12,0
+15,,16,,4.00,,,,http://www.espncricinfo.com/twenty20wc/content/player/32685.html,0,(1w),4.0,,,,,,,,,32685,IK Pathan,,,12,3
+16,,36,,12.00,,,,http://www.espncricinfo.com/twenty20wc/content/player/29264.html,0,(1w),3.0,,,,,,,,,29264,Harbhajan Singh,,,12,0
+17,,,,,,,,,,,,0.5,2,1st,1st,Imran Nazir,,Mohammad Hafeez,1,,,,,,
+18,,,,,,,,,,,,1.4,24,2nd,2nd,Imran Nazir,,Kamran Akmal,22,,,,,,
+19,,,,,,,,,,,,3.1,27,3rd,3rd,Imran Nazir,,Younis Khan,15,,,,,,
+20,,,,,,,,,,,,2.5,12,4th,4th,Shoaib Malik,,Younis Khan,3,,,,,,
+21,,,,,,,,,,,,3.0,11,5th,5th,Shoaib Malik,,Misbah-ul-Haq,5,,,,,,
+22,,,,,,,,,,,,0.1,1,6th,6th,Shahid Afridi,,Misbah-ul-Haq,0,,,,,,
+23,,,,,,,,,,,,4.2,27,7th,7th,Yasir Arafat,,Misbah-ul-Haq,12,,,,,,
+24,,,,,,,,,,,,2.0,34,8th,8th,Misbah-ul-Haq,,Sohail Tanvir,19,,,,,,
+25,,,,,,,,,,,,0.5,3,9th,9th,Misbah-ul-Haq,,Umar Gul,1,,,,,,
+26,,,,,,,,,,,,0.4,11,10th,10th,Misbah-ul-Haq,,Mohammad Asif,4,,,,,,

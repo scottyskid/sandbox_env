@@ -1,0 +1,1 @@
+pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org --proxy http://bc-cls03.ccla.com.au:3128 <package_name>
